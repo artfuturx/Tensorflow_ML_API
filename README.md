@@ -11,7 +11,7 @@ pip install -r requirements.txt
 
 2. PostgreSQL veritabanı ayarlarını yapılandırın:
    - Veritabanı adı: northwind
-   - Kullanıcı adı: sevgi
+   - Kullanıcı adı: *******
    - Şifre: (veritabanı şifreniz)
    - Host: localhost
    - Port: 5432
