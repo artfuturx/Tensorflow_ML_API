@@ -1,0 +1,16 @@
+# Veritabanı bağlantısı için
+pg8000==1.30.3
+
+# Veri işleme ve analiz için
+pandas==2.1.4
+numpy==1.26.3
+
+# Makine öğrenmesi ve derin öğrenme için
+tensorflow==2.15.0
+scikit-learn==1.4.0
+
+# Çevre değişkenleri için
+python-dotenv==1.0.0
+
+# Veritabanı ORM için (opsiyonel, pandas uyarısını gidermek için)
+SQLAlchemy==2.0.25 
